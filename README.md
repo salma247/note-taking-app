@@ -25,7 +25,7 @@ This is a note taking app that supports markdown and tags. It is built with Reac
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/salma247/note-taking-app.git
 
 # Change into the project directory
 cd your-project
