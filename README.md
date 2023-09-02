@@ -19,7 +19,7 @@ This is a note taking app that supports markdown and tags. It is built with Reac
 
 ## Demo
 
-[Live Demo](https://markdown-supported-note-taking-with-tags.netlify.app/)
+[Live Demo](https://salma247.github.io/note-taking-app/)
 
 ## Installation
 
