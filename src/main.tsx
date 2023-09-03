@@ -5,7 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <BrowserRouter basename='/note-taking-app'>
+    <BrowserRouter basename='/react=note-taking-ts'>
       <App />
     </BrowserRouter>
   </React.StrictMode>

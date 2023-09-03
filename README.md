@@ -19,13 +19,13 @@ This is a note taking app that supports markdown and tags. It is built with Reac
 
 ## Demo
 
-[Live Demo](https://salma247.github.io/note-taking-app/)
+[Live Demo](https://salma247.github.io/react-note-taking-ts/)
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/salma247/note-taking-app.git
+git clone https://github.com/salma247/react-note-taking-ts.git
 
 # Change into the project directory
 cd your-project
