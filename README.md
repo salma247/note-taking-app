@@ -39,14 +39,14 @@ npm run dev
 
 ## Features
 
-- [x] Create notes
-- [x] Edit notes
-- [x] Delete notes
-- [x] Search notes
-- [x] Add tags to notes
-- [x] Filter notes by tags
-- [x] Render markdown (this means you can render your notes in markdown format)
-- [x] Save notes to local storage
+- Create notes
+- Edit notes
+- Delete notes
+- Search notes
+- Add tags to notes
+- Filter notes by tags
+- Render markdown (this means you can render your notes in markdown format)
+- Save notes to local storage
 
 ## Technologies Used
 
